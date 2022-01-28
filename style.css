@@ -1,0 +1,38 @@
+body{
+    background:gray;
+    color: hotpink;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+header{ padding: 20px;
+height: 100px;
+background-color: green;
+}
+header a{
+    color: black;
+    text-decoration: chocolate;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+section{background: cyan;
+color: darkblue;
+padding: 20px;
+display: flex;
+flex-direction: row;
+}
+div{
+    background: grey;
+   padding:20px;
+   margin: 10px;
+    width: 100px;
+    
+}
+ul{margin: 0;
+margin: 0;
+list-style-type: none;}
+li{display:inline-table;
+margin-right: 200px;
+background-color: white;}
+footer{background: grey;
+padding: 10px 20px;}
